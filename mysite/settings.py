@@ -103,3 +103,4 @@ USE_TZ = False
 STATIC_URL = '/static/'
 STATIC_ROOT = '/home/kdziekonska/my-first-blog/static/'
 
+
