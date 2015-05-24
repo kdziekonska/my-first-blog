@@ -101,5 +101,6 @@ USE_TZ = False
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = '~/my-first-blog/static/'
+STATIC_ROOT = '/home/kdziekonska/my-first-blog/static/'
+
 
